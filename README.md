@@ -56,7 +56,7 @@ https://github.com/user-attachments/assets/1d4f58f9-09bc-45d7-9794-b47d4e22d8c7
 
 https://github.com/user-attachments/assets/a55e69f7-b2d8-4823-9009-964c8ba3f80e
 
-Most of these game prototypes can be found on [Volodymyr Delinskyi](https://apps.apple.com/us/developer/volodymyr-delinskyi/id1472993251) account with is used for Friends Games live tests.
+Most of these game prototypes can be found on [Volodymyr Delinskyi](https://apps.apple.com/us/developer/volodymyr-delinskyi/id1472993251) account that is used for Friends Games live tests.
 
 
 
