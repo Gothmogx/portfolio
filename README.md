@@ -1,6 +1,6 @@
 # Artem Danich
 ## Unity Game Developer
-A game developer with more than 6 years of experience in the industry. Proficient in Unity Engine and C#, focused on mobile platforms. Have a wide range of soft-skills including art and animation, project management and game design. Involved in all development phases from concepts to release and maintenance. This page is designed to share the projects I worked on.
+A game developer with more than 7 years of experience in the industry. Proficient in Unity Engine and C#, focused on mobile platforms. Have a wide range of soft-skills including art and animation, project management and game design. Involved in all development phases from concepts to release and maintenance. This page is designed to share the projects I worked on.
 <br>
 # Projects
 ## 1. Papaya Solitaire (Solitaire Cash)
